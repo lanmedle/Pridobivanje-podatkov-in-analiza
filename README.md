@@ -1,6 +1,4 @@
 # Pridobivanje podatkov in analiza
 
 
-- Prvo okence v jupyter datoteki poženemo za namestitev potrebnih knjiznic za delovanje programa.
-- poganjamo vsako okence posebaj, za pridobivanje podatkov, analizo, shranjevanje
-- podrobnejsa navodila so napisana pred vsakim okencem
+Iz [spletne strani](https://int.soccerway.com) ki podaja podatke o nogometnih rezultatih, sem izluščil tiste podatke, ki se nanašajo na špansko prvo ligo. Moja naloga vsebuje analizo uspešnosti posameznih klubov.   
